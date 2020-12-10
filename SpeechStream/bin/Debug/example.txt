@@ -1,0 +1,30 @@
+-- format
+
+-- [command] | [text to recognize] | [shortcut] [TECLA ASIGNADA] [main or afk] [TIME IN MILISECONDS]
+-- Strongly recommended as Shortcuts MAY ALT or CTRL  --NONE for non use(not recommended)
+-- MAY F11 Reserved for main MAY F12 Reserved for afk
+
+-- voice commands -- MAX 20 COMMANDS
+
+voice|he hecho unos calculos|MAY|1|main|3000
+voice|he llamado a neverlisten|MAY|2|main|5000
+voice|en sirio|MAY|3|main|1300
+voice|hay que usar la imaginacion|MAY|4|main|2200
+voice|como te mira conan|MAY|5|main|6500
+voice|what|MAY|6|main|3040
+voice|en el pelo kadala|MAY|7|main|1600
+voice|un palo|MAY|8|main|4000
+voice|vaya ostia se ha llevado|MAY|9|main|5000
+voice|primal alert|MAY|0|main|3000
+--Function Keys
+-- voice|calculos|MAY|F1|main|3000
+-- voice|neverlisten|MAY|F2|main|3000
+-- voice|en sirio|MAY|F3|main|1300
+-- voice|imaginate|MAY|F4|main|2200
+-- voice|como te mira conan|MAY|F5|main|6000
+-- voice|what|MAY|F6|main|3040
+-- voice|en el pelo kadala|MAY|F7|main|1600
+-- voice|calculos|MAY|F8|main|3000
+-- voice|calculos|MAY|F9|main|3000
+-- voice|calculos|MAY|F10|main|3000
+

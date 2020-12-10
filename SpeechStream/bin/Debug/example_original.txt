@@ -1,0 +1,33 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+-- [text to recognize] | [text to display or execute] | [is text a voice command?] [KEY ON] [KEY OFF] [TIME IN MILISECONDS]
+
+-- simple text --
+one|you said "one"|false
+two|you said "two"|false
+three|you said "three"|false
+four|you said "four"|false
+five|you said "five"|false
+six|you said "six"|false
+seven|you said "seven"|false
+eight|you said "eight"|false
+nine|you said "nine"|false
+ten|you said "ten"|false
+Patrick|you said "Patrick"|false
+Sergio|has dicho "Sergio"|false
+jaja|te has reido "JAJA"|false
+Alicia|has dicho "Alicia"|false
+
+-- commands --
+visual studio|devenv.exe|true
+wordpad|wordpad.exe|true
+calculator|calc.exe|true
+Battle|"C:\Program Files (x86)\Battle.net\Battle.net Launcher.exe"|true
+estrimin|C:\Users\serge\Desktop\HTML\OBS Studio.lnk|true
+
+-- voice commands -- MAX 5 COMMANDS
+neverlisten|neverlisten|voice|MAY+F1|MAY+F2|2000
+en sirio|en sirio|voice|MAY+F3|MAY+F4|2000
+imaginate|imaginate|voice|MAY+F5|MAY+F6|2000
+conan|conan|voice|MAY+F7|MAY+F8|2000
+what|what|voice|MAY+F9|MAY+F10|2000

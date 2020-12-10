@@ -1,0 +1,62 @@
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe.config
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.dll
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.xml
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.dll
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.xml
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe.config
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.pdb
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.dll
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.dll
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.xml
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.xml
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.exe
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.pdb
+C:\Users\serge\Old_Source\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.exe.config
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\WindowsInput.dll
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\NAudio.dll
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\obs-websocket-dotnet.dll
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\websocket-sharp.dll
+C:\Users\serge\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.exe.config
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.exe
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\SpeechStream.pdb
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\WindowsInput.dll
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\NAudio.dll
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\Newtonsoft.Json.dll
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\obs-websocket-dotnet.dll
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\bin\Debug\websocket-sharp.dll
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.exe
+G:\NET CORE Librarys\OldSource\source\repos\SpeechStreamWebhook\SpeechStream\obj\Debug\SpeechStream.pdb

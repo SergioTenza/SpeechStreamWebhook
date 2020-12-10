@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9pcDp54iWOxNhKZZX/UV4/zWYi0o7aUIW83NYrokfADYfCFeXnC5WCRfU2438ja7UVhOpbSZzazpdQ0Jm4guw==",
+  "success": true,
+  "projectFilePath": "G:\\NET CORE Librarys\\OldSource\\source\\repos\\SpeechStreamWebhook\\SpeechStream\\SpeechStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\obs-websocket-dotnet\\4.2.0-beta3\\obs-websocket-dotnet.4.2.0-beta3.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"
+  ],
+  "logs": []
+}
